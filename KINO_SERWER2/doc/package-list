@@ -1,0 +1,8 @@
+io.projekt.kino.config
+io.projekt.kino.dtos
+io.projekt.kino.entities
+io.projekt.kino.exceptions
+io.projekt.kino.repositories
+io.projekt.kino.services
+io.projekt.kino.web.config
+io.projekt.kino.web.controllers
